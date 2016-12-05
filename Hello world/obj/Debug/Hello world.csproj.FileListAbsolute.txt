@@ -4,3 +4,8 @@ C:\Users\fredr\OneDrive\Kodning\C Sharpp\Hello world\bin\Debug\Hello world.pdb
 C:\Users\fredr\OneDrive\Kodning\C Sharpp\Hello world\obj\Debug\Hello world.csprojResolveAssemblyReference.cache
 C:\Users\fredr\OneDrive\Kodning\C Sharpp\Hello world\obj\Debug\Hello world.exe
 C:\Users\fredr\OneDrive\Kodning\C Sharpp\Hello world\obj\Debug\Hello world.pdb
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello world\bin\Debug\Hello world.exe.config
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello world\obj\Debug\Hello world.exe
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello world\obj\Debug\Hello world.pdb
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello world\bin\Debug\Hello world.exe
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello world\bin\Debug\Hello world.pdb

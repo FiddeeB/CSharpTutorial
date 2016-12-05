@@ -8,10 +8,12 @@ namespace Hello_world
 {
     class Program
     {
-        static void Main(string[] args) { 
-        Console.WriteLine("Hello world!");
+        static void Main(string[] args) {
 
-            
+            for (int i = 0; i != 10; i++)
+            {
+                Console.WriteLine("Hello world!" + i);
+            }
 
         }
 

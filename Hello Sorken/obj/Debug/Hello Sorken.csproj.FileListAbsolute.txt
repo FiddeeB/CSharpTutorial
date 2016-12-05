@@ -1,0 +1,6 @@
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello Sorken\bin\Debug\Hello Sorken.exe.config
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello Sorken\obj\Debug\Hello Sorken.csprojResolveAssemblyReference.cache
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello Sorken\bin\Debug\Hello Sorken.exe
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello Sorken\bin\Debug\Hello Sorken.pdb
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello Sorken\obj\Debug\Hello Sorken.exe
+C:\Users\fredr\OneDrive\Kodning\C Sharpp\CSharpTutorial\Hello Sorken\obj\Debug\Hello Sorken.pdb
